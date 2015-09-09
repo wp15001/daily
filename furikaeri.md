@@ -7,7 +7,7 @@
  - mainiti振り返りを書く
  - gannbaru
  - uwagakisezunihozonnsuru
-
+ - mark dawn no yakusokugoto  シャープはおおみだし　ハイフンはこみだし　そのうしろに半角すぺすを入れる
  ### problem(問題なのでやめること)
 
  - nakanaka umakuikanai
