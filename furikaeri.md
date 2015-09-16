@@ -1,5 +1,18 @@
 # 振り返り
 
+## 09/16
+
+### keep(今後も続けること)
+
+- あきらめない
+
+### problem(問題なのでやめること)
+
+- 特になし
+
+### try(今後やりたいこと)
+
+ -pankuzurisuto no namae no yurai o sirabetemiru
 ## 09/15
 
 ### keep(今後も続けること)
