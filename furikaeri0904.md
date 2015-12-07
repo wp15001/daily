@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -33,19 +33,19 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="./photo1.jpg" alt="Chania" width="460" height="345">
+        <img src="./2015 10 01 031.jpg" alt="Chania" width="460" height="345">
       </div>
 
       <div class="item">
-        <img src="./photo2.jpg" alt="Chania" width="460" height="345">
+        <img src="./2015 10 01 033.jpg" alt="Chania" width="460" height="345">
       </div>
     
       <div class="item">
-        <img src="./photo3.jpg" alt="Flower" width="267" height="200">
+        <img src="./2015 10 01 056.jpg" alt="Flower" width="267" height="200">
       </div>
 
       <div class="item">
-        <img src="./photo1.jpg" alt="Flower" width="460" height="345">
+        <img src="./2015 10 01 155.jpg" alt="Flower" width="460" height="345">
       </div>
     </div>
 
@@ -60,7 +60,7 @@
     </a>
   </div>
 </div>
-<p>はじめてのカルーセルやったー</p>
+<p>carousel</p>
 <div class="container-fluid">
   <h1>Hello World!</h1>
   <p>Resize the browser window to see the effect.</p>
